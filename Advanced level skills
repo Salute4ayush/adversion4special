@@ -1,0 +1,7 @@
+echo "# adversion4special" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Salute4ayush/adversion4special.git
+git push -u origin mainREADME.md
